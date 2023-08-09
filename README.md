@@ -25,7 +25,7 @@ I am a Computer Science Graduate <img src="https://media.giphy.com/media/WUlplcM
 
 - :seedling: Exploring Software Development Industry.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
 <!-- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)-->
 
