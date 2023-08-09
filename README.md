@@ -51,4 +51,6 @@ I am a Computer Science Graduate <img src="https://media.giphy.com/media/WUlplcM
 ### :fire: My Stats : 
 <img src="https://komarev.com/ghpvc/?username=SanjayKumarrG&style=flat-square&color=blue" alt="" />
 <img src="http://github-readme-streak-stats.herokuapp.com?user=SanjayKumarrG&theme=dark&background=000000" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayKumarrG&theme=dark&background=000000"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayKumarrG&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+<!--<img src="https://github-readme-stats.vercel.app/api?username=SanjayKumarrG&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false"/>-->
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayKumarrG&theme=dark&background=000000"/>-->
