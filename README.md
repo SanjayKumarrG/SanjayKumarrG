@@ -21,7 +21,7 @@
 
 ### :man_technologist: About Me :
 I am a Computer Science Graduate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> seeking to start a career as an entry-level software engineer with a reputed firm driven by technology.
-- :telescope: I’m currently contributing to frontend and backend for building web applications.
+- :telescope: I’m currently working on frontend and backend for building web applications.
 
 - :seedling: Exploring Software Development Industry.
 
